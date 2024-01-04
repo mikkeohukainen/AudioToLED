@@ -1,4 +1,4 @@
-## Audiosignal To RGB LED strip
+## Audio signal To RGB LED strip
 
 ### A prototype for controlling the brightness of a led strip with an audio signal.
 
