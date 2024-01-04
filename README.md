@@ -17,15 +17,15 @@ If I were to refine the system further, I'd propably add a ground loop isolator 
 
 ### Schematic
 
-<img src="schematic.png">
+<img src="images/schematic.png">
 
 ### Breadboard wiring
 
-<img src="pic1.jpg">
-<img src="pic2.jpg">
+<img src="images/pic1.jpg">
+<img src="images/pic2.jpg">
 
 ### In action
 
-<img src="pic3.jpg">
-<img src="pic4.jpg">
-<img src="pic5.jpg">
+<img src="images/pic3.jpg">
+<img src="images/pic4.jpg">
+<img src="images/pic5.jpg">
