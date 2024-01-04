@@ -11,7 +11,7 @@ A push button and a potentiometer were used for toggling the different modes and
 
 Three logic-level mosfets were placed in between the led strip and the digital outputs of the arduino for controlling the LEDs with a PWM signal.
 
-The system worked great for a prototype but the PWM signal of the arduino seemed to produce slight interference/noise that traveled to the amplifier of the car stereo.
+The system worked great for a prototype but the PWM signal of the arduino seemed to produce slight interference/noise that traveled to the amplifier of the car stereo and ended up causing a buzzing sound from the speakers.
 
 If I were to refine the system further, I'd propably add a ground loop isolator and an opto-isolator or some other component for filtering out the interference.
 
@@ -19,7 +19,13 @@ If I were to refine the system further, I'd propably add a ground loop isolator 
 
 <img src="schematic.png">
 
-### Wiring
+### Breadboard wiring
 
 <img src="pic1.jpg">
 <img src="pic2.jpg">
+
+### In action
+
+<img src="pic3.jpg">
+<img src="pic4.jpg">
+<img src="pic5.jpg">
