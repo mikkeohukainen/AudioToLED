@@ -9,7 +9,7 @@ The capacitor was used as a DC filter only allowing the AC signal to pass throug
 
 A push button and a potentiometer were used for toggling the different modes and adjusting the color of the RGB LED strip.
 
-Three logic-level mosfets were placed in between the led strip and the digital outputs of the arduino for controlling the LEDs with a PWM signal.
+Three logic-level mosfets were used to control the 12V LEDs with PWM signals from the Arduino.
 
 The system worked great for a prototype but the PWM signal of the arduino seemed to produce slight interference/noise that traveled to the amplifier of the car stereo and ended up causing a buzzing sound from the speakers.
 
